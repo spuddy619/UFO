@@ -12,7 +12,7 @@ The end user will easily be able to use the additional search filters. There is 
 ## Drawbacks
 A drawback of this UFO Sightings filtering system is the case-sensitivity. The search engine differentiates between “WA” and “wa”. The search only registers lowercase entries so “wa” would be the search entry that would have any output.
 ## Recommendations for Further Development
-For the sake of future study of the information presented by this table, we may want to standardize the outputs. For instance, looking at the “duration” column, the times are written in many different formats. Some abbreviate the word “minutes” with “min” or “mins” - some do not even write the unit of the duration of time. It may become difficult to scrape the information when there are many methods to convey the same type of information.
+For the sake of future study of the information presented by this table, we may want to standardize the outputs. For instance, looking at the “duration” column, the times are written in many different formats. Some abbreviate the word “minutes” with “min” or “mins” - some do not even write the unit of the duration of time. It may become difficult to scrape the information when there are many methods to convey the same type of information. That being said, future work that specifically addresses such discrepancies should be pursued in order to create a more robust and easier to use set of data.
 
 	
 
